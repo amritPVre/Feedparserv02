@@ -1,0 +1,6 @@
+streamlit==1.18.0
+feedparser
+pandas
+csv
+datetime
+google.auth
