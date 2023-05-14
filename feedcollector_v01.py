@@ -4,7 +4,7 @@ import pandas as pd
 import csv
 import datetime
 import os
-import google.auth
+#import google.auth
 
 
 # Define function to scrape news headlines from RSS feed
