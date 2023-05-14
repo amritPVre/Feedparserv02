@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run webscrapper_v01.py
+web: sh setup.sh && streamlit run feedparser_v01.py
